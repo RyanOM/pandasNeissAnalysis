@@ -35,6 +35,9 @@ Arm, upper | 745
 Internal | 549
 Pubic region | 286
 
+**Important note**
+`Not Recorded` and `25-50% of body` are not considered body parts.
+
 ---
 
 ### Question 2
